@@ -6,8 +6,8 @@
 
 
 //pin assignment declaration
-#define RED_LED 9                       //Assign red led to pin 9
-#define YELLOW_LED 8                    //Assign yellow led to pin 8
+#define RED_LED 9                       //Assign red LED to pin 9
+#define YELLOW_LED 8                    //Assign yellow LED to pin 8
 
 // Setup/initialization function(Only run once)
 void setup() {
