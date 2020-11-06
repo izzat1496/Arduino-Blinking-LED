@@ -20,3 +20,5 @@ Red LED            x1
 Yellow LED         x1
 
 Jumper wire        x3
+
+Refer to this link for coding explaination with demonstration: 
